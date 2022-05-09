@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 "discord.py" = "*"
 python-decouple = "*"
+geopy = "*"
+nominatim = "*"
+pickledb = "*"
+requests = "*"
+table2ascii = "*"
 
 [dev-packages]
 
